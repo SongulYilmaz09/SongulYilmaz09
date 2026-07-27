@@ -8,78 +8,102 @@ Software Engineering Student • iOS Developer • Backend Developer
 
 ## 👩‍💻 About Me
 
-- 🎓 4rd Year Software Engineering Student
-- 📱 Currently developing **SonGexa**
-- 🍎 Learning **Swift & iOS Development**
-- ⚙️ Learning **ASP.NET Core Backend**
-- 🌱 Currently improving my backend architecture skills
-- 🚀 Goal: Build production-ready mobile applications
+- 🎓 4th Year Software Engineering Student
+- 📱 Founder & Developer of **SonGexa**
+- 🍎 Developing iOS applications with **Swift & UIKit**
+- ⚙️ Building my own **ASP.NET Core Backend**
+- 🛡️ Passionate about secure, scalable, and maintainable software architecture
+- 🚀 Interested in Mobile Development, Backend Development, and Embedded Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
+- Swift
+- C#
 - C
 - C++
-- C#
 - Java
-- Swift
+- JavaScript
 - SQL
 
-### Mobile
+### Mobile Development
 
 - Swift
+- UIKit
 - Flutter
+- React Native
 
-### Backend
+### Backend Development
 
 - ASP.NET Core
 - REST API
+- Entity Framework Core *(Learning)*
 - PostgreSQL *(Learning)*
 
-### Tools
+### Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Embedded Systems
+
+- Arduino
+- C / C++
+- Sensor Integration
+- IoT Development
+
+### Database
+
+- Firebase Firestore
+- Firebase Authentication
+- PostgreSQL *(Learning)*
+- SQL Server
+
+### Tools & Technologies
 
 - Git
 - GitHub
 - Xcode
 - Visual Studio
 - VS Code
+- Firebase
+- Arduino IDE
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 ### 📱 SonGexa
 
-A modern personal finance mobile application built with Swift.
+A modern personal finance mobile application for iOS, developed with Swift & UIKit. Currently building its custom ASP.NET Core backend with a focus on security, scalability, and clean architecture.
 
 ---
 
-### 🌱 Backend Bootcamp 2026
+### ⚙️ Backend Bootcamp 2026
 
-Learning backend development from fundamentals to production level.
+A structured backend development journey documenting my progress from C# fundamentals to production-ready ASP.NET Core development through hands-on projects and GitHub commits.
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Become an iOS Developer
-- ✅ Learn ASP.NET Core
-- ✅ Learn PostgreSQL
-- ✅ Learn Docker
-- ✅ Build SonGexa Backend
-- ✅ Publish SonGexa on the App Store
+- 🚀 Publish SonGexa on the App Store
+- ⚙️ Complete SonGexa Backend with ASP.NET Core
+- 🗄️ Master PostgreSQL & Entity Framework Core
+- 🐳 Learn Docker & Containerization
+- ☁️ Deploy production-ready backend services
+- 💼 Start my career as an iOS / Backend Developer
 
 ---
 
 ## 📫 Contact
 
-📧 Email
+📧 **Email**
 
 **yilmazsongul2506@gmail.com**
 
-🔗 LinkedIn
-
-https://www.linkedin.com/in/songül-yılmaz-4a3703339
+💼 **LinkedIn**
